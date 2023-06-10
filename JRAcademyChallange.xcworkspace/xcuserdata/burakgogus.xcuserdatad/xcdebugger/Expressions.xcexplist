@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameDetailViewController.FavouriteButtonTapped():GameDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouritesViewController.viewWillAppear(_:):FavouritesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "coreData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavoritesViewController.renderFavorites():FavoritesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "genres">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "renderFindGame #1 () in GameViewController.searchBarSearchButtonClicked(_:):GameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.findgames">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouritesViewController.getFavourites():FavouritesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "comeData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouritesViewController.render():FavouritesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "comeData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameViewController.searchBarSearchButtonClicked(_:):GameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchText.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameDetailViewController.checkFavourites():GameDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.gamesDetail?.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GameViewController.render():GameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.games">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameViewController.render():GameViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameViewController.didFetchMoreGames():GameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.games">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
