@@ -20,6 +20,7 @@ Proje aşağıdaki kütüphaneleri kullanmaktadır:
 
 1. Proje dosyalarını bilgisayarınıza klonlayın.
 2. Terminalde proje dizinine gidin ve aşağıdaki komutu çalıştırın:
+3. pod install
 
 !!!CHECK!!!
 
